@@ -1,0 +1,3 @@
+﻿  zajecia11.cpp
+c:\users\gabim\desktop\grafika\zajecia11\zajecia11\zajecia11.cpp(36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  zajecia11.vcxproj -> C:\Users\gabim\Desktop\GRAFIKA\zajecia11\Debug\zajecia11.exe
